@@ -70,7 +70,6 @@ button, input, select {
     top: 160px;
     height: 100vh - 150px;
     display: flex;
-    flex-wrap: wrap;
 }
 .menue {
     min-width: 260px;
